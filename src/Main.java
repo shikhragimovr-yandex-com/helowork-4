@@ -66,7 +66,7 @@ public class Main {
             System.out.println("1 меньше 2");
         } else {
         if (b < c) {
-            System.out.println("2 меньше 3");
+            System.out.println("2  меньше 3");
         }
         }
         }
