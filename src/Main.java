@@ -12,7 +12,7 @@ public class Main {
             System.out.println("ему пора в университет");
         } else {
         if (people > 24) {
-            System.out.println("ему пора ходить на работу");
+            System.out.println(" ему пора ходить на работу");
         }
         }
         }
