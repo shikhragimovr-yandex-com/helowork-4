@@ -19,7 +19,7 @@ public class Main {
             }
         int atraction = 3;
         if (atraction < 5) {
-            System.out.println("он не может кататься на аттракционе");
+            System.out.println("bон не может кататься на аттракционе");
         } else {
         if (atraction >= 5 && atraction <= 14) {
             System.out.println("может кататься только в сопровождении взрослого");
