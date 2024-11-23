@@ -46,7 +46,7 @@ public class Main {
         int two = 2;
         int three = 3;
         if (three > one && three > two) {
-            System.out.println("максимальное число");
+            System.out.println(" максимальное число");
         }
     }
 
