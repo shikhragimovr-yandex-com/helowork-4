@@ -25,7 +25,7 @@ public class Main {
             System.out.println("может кататься только в сопровождении взрослого");
         } else {
         if (atraction > 14) {
-            System.out.println(" он может кататься без сопровождения взрослого");
+            System.out.println("он может кататься без сопровождения взрослого");
         }
         }
         }
